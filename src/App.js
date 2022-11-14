@@ -12,6 +12,9 @@ function App() {
         <Button type="primary">测试button3</Button>
         <Button type="primary">测试button4</Button>
         <Button type="primary">测试button5</Button>
+        <Button type="primary">测试button6</Button>
+        <Button type="primary">测试button7</Button>
+        <Button type="primary">测试button8</Button>
     </div>
   );
 }
