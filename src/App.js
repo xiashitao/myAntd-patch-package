@@ -9,6 +9,9 @@ function App() {
     <div className="App">
         <Button type="primary">测试button1</Button>
         <Button type="primary">测试button2</Button>
+        <Button type="primary">测试button3</Button>
+        <Button type="primary">测试button4</Button>
+        <Button type="primary">测试button5</Button>
     </div>
   );
 }
