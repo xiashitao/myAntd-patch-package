@@ -7,7 +7,8 @@ import "antd/dist/antd.css";
 function App() {
   return (
     <div className="App">
-        <Button type="primary">测试button</Button>
+        <Button type="primary">测试button1</Button>
+        <Button type="primary">测试button2</Button>
     </div>
   );
 }
