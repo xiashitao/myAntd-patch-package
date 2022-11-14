@@ -1,0 +1,12 @@
+diff --git a/node_modules/react/cjs/react-jsx-dev-runtime.development.js b/node_modules/react/cjs/react-jsx-dev-runtime.development.js
+index 3fe63ac..e7db864 100644
+--- a/node_modules/react/cjs/react-jsx-dev-runtime.development.js
++++ b/node_modules/react/cjs/react-jsx-dev-runtime.development.js
+@@ -73,6 +73,7 @@ function printWarning(level, format, args) {
+     if (stack !== '') {
+       format += '%s';
+       args = args.concat([stack]);
++      console.log(1)
+     } // eslint-disable-next-line react-internal/safe-string-coercion
+ 
+ 
